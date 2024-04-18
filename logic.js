@@ -147,7 +147,7 @@ const fightLocations = [
 const fightLocationshref = [
     `images/location/titanic.jpg`, `images/location/schicksalsberg.png`, `images/location/oscars.png`, `images/location/eifelturm.jpg`, 
     `images/location/masterkaioplanet.png`, `images/location/wrestlemania24.png`, `images/location/phineasferbgarden.jpg`, `images/location/snoopdoggtekkenstage.png`, 
-    `images/location/somewhereovertherainbow.png`, `images/location/fightclub.jpg`
+    `images/location/somewhereovertherainbow.PNG`, `images/location/fightclub.jpg`
 ];
 
 //Player
@@ -170,7 +170,6 @@ function atlas(){
     playernumber = 0;
     playerDetails();
 }
-
 
 function albert(){
     playernumber = 1;
