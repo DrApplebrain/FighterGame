@@ -56,7 +56,7 @@ const attack = [
 ];
 
 const attackdamage = [
-    50, 25, 30, 25, 30, 20, 15, 25, 100
+    35, 25, 30, 25, 30, 55, 15, 25, 100
 ];
 
 
@@ -65,7 +65,7 @@ const attack2 = [
 ];
 
 const attackdamage2 = [
-    30, 35, 20, 30, 20, 25, 90, 20, 50
+    30, 35, 20, 30, 20, 60, 65, 20, 50
 ];
 
 const powerdamage = [
@@ -129,7 +129,7 @@ const enemyattacks = [
 ];
 
 const enemyattackdamage1 = [
-    50, 30, 40, 60, 25, 45, 70, 40, 100
+    50, 30, 40, 60, 25, 45, 50, 40, 100
 ];
 
 const enemyattacks2 = [
@@ -137,7 +137,7 @@ const enemyattacks2 = [
 ];
 
 const enemyattackdamage2 = [
-    30, 35, 50, 65, 45, 35, 800, 50, 1000
+    30, 35, 50, 65, 45, 35, 45, 50, 1000
 ];
 
 const fightLocations = [
